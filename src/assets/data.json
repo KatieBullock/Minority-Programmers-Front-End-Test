@@ -1,0 +1,95 @@
+{
+  "startups": {
+    "1": {
+      "title": "Mangoswap",
+      "shortDescription": "The mango swap coin is the future for crypto currency. It will allow users to share over defi networks with less fees.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, corporis qui maiores aliquid explicabo animi deserunt, deleniti sint voluptatibus totam pariatur tempore laborum quidem perspiciatis dolor rem quos optio quisquam.",
+      "image": "https://via.placeholder.com/50",
+      "founded": "May 17, 2015",
+      "website": "mangoswap.com",
+      "location": "San Francisco, California",
+      "teamMembers": {
+        "Edmund Kitan": "Founder",
+        "Olarenwaju Cesar": "Co-Founder",
+        "Uzo Amanda": "Head of Growth",
+        "Donald Duke": "Head of Product"
+      },
+      "teamSize": "100-500 people",
+      "funds": { "raised": 200000, "needed": 400000 },
+      "vision": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id efficitur velit, sit amet dapibus velit. Cras et nunc vel leo molestie gravida. Nulla id nulla ut lorem malesuada tincidunt et sit amet mi. Ut eget maximus nunc. Ut finibus maximus tempor. Donec sit amet augue at massa lobortis maximus a in tortor. Aliquam tincidunt odio ipsum, non fermentum lacus imperdiet eu. Phasellus rutrum, mi vitae congue auctor, odio tellus elementum mauris, quis tempus felis leo eget massa. Sed aliquam, turpis dapibus laoreet egestas, lorem augue pretium arcu, id tincidunt dolor metus in lacus. Praesent id libero varius turpis mattis venenatis. Duis eu varius justo."
+    },
+    "2": {
+      "title": "Startup 2",
+      "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum sem tellus, feugiat dignissim ligula rhoncus quis.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, corporis qui maiores aliquid explicabo animi deserunt, deleniti sint voluptatibus totam pariatur tempore laborum quidem perspiciatis dolor rem quos optio quisquam.",
+      "image": "https://via.placeholder.com/50",
+      "founded": "November 18, 2016",
+      "website": "startup2.com",
+      "location": "New York, New York",
+      "teamMembers": {
+        "Mickey Mouse": "Founder",
+        "Donald Duck": "Co-Founder",
+        "Goofy Goof": "Head of Growth",
+        "Pluto the Dog": "Head of Product"
+      },
+      "teamSize": "100-500 people",
+      "funds": { "raised": 200000, "needed": 400000 },
+      "vision": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id efficitur velit, sit amet dapibus velit. Cras et nunc vel leo molestie gravida. Nulla id nulla ut lorem malesuada tincidunt et sit amet mi. Ut eget maximus nunc. Ut finibus maximus tempor. Donec sit amet augue at massa lobortis maximus a in tortor. Aliquam tincidunt odio ipsum, non fermentum lacus imperdiet eu. Phasellus rutrum, mi vitae congue auctor, odio tellus elementum mauris, quis tempus felis leo eget massa. Sed aliquam, turpis dapibus laoreet egestas, lorem augue pretium arcu, id tincidunt dolor metus in lacus. Praesent id libero varius turpis mattis venenatis. Duis eu varius justo."
+    },
+    "3": {
+      "title": "Startup 3",
+      "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum sem tellus, feugiat dignissim ligula rhoncus quis.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, corporis qui maiores aliquid explicabo animi deserunt, deleniti sint voluptatibus totam pariatur tempore laborum quidem perspiciatis dolor rem quos optio quisquam.",
+      "image": "https://via.placeholder.com/50",
+      "founded": "September 12, 2015",
+      "website": "startup3.com",
+      "location": "Philadelphia, Pennsylvania",
+      "teamMembers": {
+        "Ash Ketchum": "Founder",
+        "Misty Williams": "Co-Founder",
+        "Brock Harrison": "Head of Growth",
+        "Pikachu Pokemon": "Head of Product"
+      },
+      "teamSize": "100-500 people",
+      "funds": { "raised": 200000, "needed": 400000 },
+      "vision": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id efficitur velit, sit amet dapibus velit. Cras et nunc vel leo molestie gravida. Nulla id nulla ut lorem malesuada tincidunt et sit amet mi. Ut eget maximus nunc. Ut finibus maximus tempor. Donec sit amet augue at massa lobortis maximus a in tortor. Aliquam tincidunt odio ipsum, non fermentum lacus imperdiet eu. Phasellus rutrum, mi vitae congue auctor, odio tellus elementum mauris, quis tempus felis leo eget massa. Sed aliquam, turpis dapibus laoreet egestas, lorem augue pretium arcu, id tincidunt dolor metus in lacus. Praesent id libero varius turpis mattis venenatis. Duis eu varius justo."
+    },
+    "4": {
+      "title": "Startup 4",
+      "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum sem tellus, feugiat dignissim ligula rhoncus quis.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, corporis qui maiores aliquid explicabo animi deserunt, deleniti sint voluptatibus totam pariatur tempore laborum quidem perspiciatis dolor rem quos optio quisquam.",
+      "image": "https://via.placeholder.com/50",
+      "founded": "January 1, 2018",
+      "website": "startup4.com",
+      "location": "Orlando, Florida",
+      "teamMembers": {
+        "Scooby Doo": "Founder",
+        "Shaggy Rogers": "Co-Founder",
+        "Velma Dinkley": "Head of Growth",
+        "Daphne Blake": "Head of Product",
+        "Fred Jones": "Head of Sales"
+      },
+      "teamSize": "100-500 people",
+      "funds": { "raised": 200000, "needed": 400000 },
+      "vision": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id efficitur velit, sit amet dapibus velit. Cras et nunc vel leo molestie gravida. Nulla id nulla ut lorem malesuada tincidunt et sit amet mi. Ut eget maximus nunc. Ut finibus maximus tempor. Donec sit amet augue at massa lobortis maximus a in tortor. Aliquam tincidunt odio ipsum, non fermentum lacus imperdiet eu. Phasellus rutrum, mi vitae congue auctor, odio tellus elementum mauris, quis tempus felis leo eget massa. Sed aliquam, turpis dapibus laoreet egestas, lorem augue pretium arcu, id tincidunt dolor metus in lacus. Praesent id libero varius turpis mattis venenatis. Duis eu varius justo."
+    },
+    "5": {
+      "title": "Startup 5",
+      "shortDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam elementum sem tellus, feugiat dignissim ligula rhoncus quis.",
+      "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Est, corporis qui maiores aliquid explicabo animi deserunt, deleniti sint voluptatibus totam pariatur tempore laborum quidem perspiciatis dolor rem quos optio quisquam.",
+      "image": "https://via.placeholder.com/50",
+      "founded": "July 20, 2016",
+      "website": "startup5.com",
+      "location": "Houston, Texas",
+      "teamMembers": {
+        "Spongebob Squarepants": "Founder",
+        "Patrick Star": "Co-Founder",
+        "Squidward Tentacles": "Head of Growth",
+        "Sandy Cheeks": "Head of Product"
+      },
+      "teamSize": "100-500 people",
+      "funds": { "raised": 200000, "needed": 400000 },
+      "vision": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer id efficitur velit, sit amet dapibus velit. Cras et nunc vel leo molestie gravida. Nulla id nulla ut lorem malesuada tincidunt et sit amet mi. Ut eget maximus nunc. Ut finibus maximus tempor. Donec sit amet augue at massa lobortis maximus a in tortor. Aliquam tincidunt odio ipsum, non fermentum lacus imperdiet eu. Phasellus rutrum, mi vitae congue auctor, odio tellus elementum mauris, quis tempus felis leo eget massa. Sed aliquam, turpis dapibus laoreet egestas, lorem augue pretium arcu, id tincidunt dolor metus in lacus. Praesent id libero varius turpis mattis venenatis. Duis eu varius justo."
+    }
+  }
+}

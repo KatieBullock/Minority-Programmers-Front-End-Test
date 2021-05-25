@@ -8,7 +8,7 @@ import Home from "../Home/Home";
 import Incubator from "../Incubator/Incubator";
 import IncubatorDetails from "../Incubator/IncubatorDetails";
 import Learn from "../Learn/Learn";
-import Learn from "../Learn/Courses";
+import Course from "../Learn/Course";
 
 const AppRouter = () => {
   return (
@@ -27,7 +27,7 @@ const AppRouter = () => {
           <Learn />
         </Route>
         <Route path="learn/:courseId">
-          <Courses />
+          <Course />
         </Route>
         <Route>
           <Redirect to="/" />
