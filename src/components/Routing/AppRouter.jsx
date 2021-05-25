@@ -26,7 +26,7 @@ const AppRouter = () => {
         <Route exact path="/learn">
           <Learn />
         </Route>
-        <Route path="learn/:courseId">
+        <Route path="/learn/:courseId">
           <Course />
         </Route>
         <Route>

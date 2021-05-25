@@ -9,7 +9,7 @@ const StartupWidget = ({ startupId, startup }) => {
       <div>
         <h5>Funds Raised</h5>
         <small>
-          {(startup.funds.raised / startup.funds.needed) * 100}% complete
+          {(startup.funds.raised / startup.funds.needed) * 100}% Complete
         </small>
         <h4>
           ${startup.funds.raised.toLocaleString()}/$
