@@ -1,5 +1,6 @@
 import { useParams } from "react-router-dom";
 import data from "../../assets/data.json";
+import Nav from "../Nav/Nav";
 
 const Course = () => {
   const { courseId } = useParams();
@@ -17,6 +18,7 @@ const Course = () => {
 
   return (
     <div>
+      <Nav />
       <div>
         <button>Back to Courses</button>
         {Object.entries(course.modules).map(([module, details]) => {

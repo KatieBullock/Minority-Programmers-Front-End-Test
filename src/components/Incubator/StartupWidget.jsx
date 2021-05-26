@@ -1,6 +1,4 @@
 import { Link } from "react-router-dom";
-import loadingBar from "../../assets/images/loadingBar.png";
-import mockLoadingBar from "../../assets/images/mockLoadingBar.png";
 
 const StartupWidget = ({ startupId, startup }) => {
   return (

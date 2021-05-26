@@ -20,8 +20,20 @@ code {
     monospace;
 }
 
+#nav {
+  padding: 20px;
+  background-color: #ffffff;
+
+  display: flex;
+  flex-flow: row;
+  justify-content: space-evenly;
+}
+
+#nav Link {
+  color: #141471;
+}
+
 #incubatorHeader {
-  width: 100%;
   height: fit-content;
   padding: 50px;
   background-image: url("./assets/images/incubatorHeader.png");
@@ -210,4 +222,89 @@ code {
   font-family: "Red Hat Display";
   font-style: normal;
   font-weight: bold;
+}
+
+#startupDetails {
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+#detailsHeader {
+  width: 90%;
+  margin: 50px auto 20px auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 30px 30px 0px 0px;
+
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#detailsName {
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.detailsFunds div {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.detailsFunds div h5 {
+  margin: 0;
+}
+
+.detailsFunds h4 {
+  margin: 0;
+}
+
+#detailsHeader button {
+  padding: 10px 30px;
+  background: linear-gradient(
+    104.61deg,
+    #ff00b8 2.65%,
+    #ff655b 51.83%,
+    #ffc700 100%
+  );
+  border-radius: 4px;
+  border: none;
+  color: #ffffff;
+  font-family: "Red Hat Display";
+  font-style: normal;
+  font-weight: bold;
+}
+
+#detailsContent {
+  width: 94%;
+  margin: 0 auto;
+
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-between;
+}
+
+#detailsQuickView {
+  padding: 10px;
+  background-color: #ffffff;
+
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+#detailsView {
+  width: 60%;
+
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+.detailsAbout {
+  background-color: #ffffff;
+  padding: 10px;
 }

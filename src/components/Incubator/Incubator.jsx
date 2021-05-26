@@ -3,11 +3,13 @@ import StartupWidget from "./StartupWidget";
 import startupsInformation1 from "../../assets/images/startupsInformation1.png";
 import startupsInformation2 from "../../assets/images/startupsInformation2.png";
 import startupsInformation3 from "../../assets/images/startupsInformation3.png";
+import Nav from "../Nav/Nav";
 
 const Incubator = () => {
   const startups = data.startups;
   return (
     <div>
+      <Nav />
       <header id="incubatorHeader">
         <div className="incubatorHeaderContent">
           <h2>Invest directly into minority innovations.</h2>
