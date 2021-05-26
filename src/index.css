@@ -1,13 +1,213 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@700&display=swap");
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: "Red Hat Display";
+  font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(
+    104.61deg,
+    #ff00b8 2.65%,
+    #ff655b 51.83%,
+    #ffc700 100%
+  );
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
+}
+
+#incubatorHeader {
+  width: 100%;
+  height: fit-content;
+  padding: 50px;
+  background-image: url("./assets/images/incubatorHeader.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+
+  display: flex;
+  justify-content: flex-end;
+}
+
+.incubatorHeaderContent {
+  padding: 30px;
+  width: 50%;
+  font-weight: bold;
+  font-size: 1.6rem;
+  color: #ffffff;
+
+  display: flex;
+  flex-flow: column wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.incubatorHeaderContent button {
+  padding: 10px 30px;
+  background: linear-gradient(
+    104.61deg,
+    #ff00b8 2.65%,
+    #ff655b 51.83%,
+    #ffc700 100%
+  );
+  border-radius: 4px;
+  border: none;
+  color: #ffffff;
+  font-family: "Red Hat Display";
+  font-style: normal;
+  font-weight: bold;
+}
+
+#incubatorMain {
+  width: 90%;
+  margin: 0 auto;
+
+  display: flex;
+  flex-flow: column nowrap;
+}
+
+#featuredStartups {
+  margin: 30px;
+
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+#upcomingStartups {
+  margin: 30px;
+
+  display: flex;
+  flex-flow: row wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.startupsTag {
+  width: 300px;
+  color: #ffffff;
+}
+
+.startupsTag div {
+  width: 50%;
+  margin: 10px;
+  padding: 20px;
+}
+
+.startupsTag h3 {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+.startupWidgetDiv {
+  width: 300px;
+}
+
+#startupWidget {
+  margin: 10px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 20px;
+
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.startupWidgetName {
+  font-weight: normal;
+
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+}
+
+.startupWidgetName h3 {
+  padding: 0px 10px;
+}
+
+.startupWidgetFunds {
+  width: 100%;
+
+  display: flex;
+  flex-flow: column nowrap;
+  justify-content: flex-start;
+}
+
+.startupWidgetFunds div {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.startupWidgetFunds div h5 {
+  margin: 0;
+}
+
+.startupWidgetFunds h4 {
+  margin: 0;
+}
+
+.startupWidgetButtons {
+  width: 100%;
+
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-between;
+}
+
+.startupWidgetFundButton {
+  margin: 10px 0 0 0;
+  padding: 10px;
+  background-color: #141471;
+  color: #ffffff;
+  border-radius: 4px;
+  border: none;
+  font-family: "Red Hat Display";
+  font-style: normal;
+  font-weight: bold;
+}
+
+.startupWidgetLearnButton {
+  margin: 10px 0 0 0;
+  padding: 10px;
+  background-color: #ffffff;
+  color: #141471;
+  border-radius: 4px;
+  border: solid 1px #141471;
+  font-family: "Red Hat Display";
+  font-style: normal;
+  font-weight: bold;
+}
+
+#startupInformation {
+  margin: 0 auto;
+
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+#startupInformation img {
+  width: 300px;
+  padding: 10px;
+}
+
+.loadMoreButton {
+  width: 200px;
+  margin-bottom: 60px;
+  padding: 10px;
+  align-self: center;
+  background-color: transparent;
+  color: #ffffff;
+  border-radius: 4px;
+  border: solid 1px #ffffff;
+  font-family: "Red Hat Display";
+  font-style: normal;
+  font-weight: bold;
 }
