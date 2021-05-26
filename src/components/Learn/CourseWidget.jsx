@@ -6,6 +6,7 @@ const CourseWidget = ({ courseId, course }) => {
     if (module.status === "complete") {
       completedModules += 1;
     }
+    return completedModules;
   });
 
   return (
